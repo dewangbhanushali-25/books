@@ -27,10 +27,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "ultimate/ai/mml-book (1).pdf"
+                "file": "ultimate/computer_vision/Computer Vision - Algorithms and Applications 2nd Edition, Richard Szeliski.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "mml-book (1)"
+              "title": "Computer Vision - Algorithms and Applications 2nd Edition, Richard Szeliski"
             }
           }
         ],
@@ -209,6 +209,9 @@
   },
   "active": "b6e6059c685aaa63",
   "lastOpenFiles": [
+    "ultimate/control/feedback_system.pdf",
+    "ultimate/computer_vision/Deep_learning_for_3D_vision.pdf",
+    "ultimate/ai/mml-book (1).pdf",
     "Untitled.md",
     "ultimate/KnillProbability.pdf",
     "ultimate/Little_Notes.pdf",
@@ -223,8 +226,6 @@
     "Untitled.canvas",
     "Untitled 3.canvas",
     "ultimate/robotics/probalatisc.pdf",
-    "ultimate/robotics/northwestern.pdf",
-    "ultimate/robotics/book1.pdf",
     "ultimate/electronics/Embedded-Engineering-Roadmap.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
