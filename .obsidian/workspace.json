@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6dc815cbda2b7bfb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ultimate/ai/mml-book (1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "mml-book (1)"
-            }
-          },
-          {
             "id": "9e3caba60305d47c",
             "type": "leaf",
             "state": {
@@ -50,8 +38,7 @@
               "title": "Untitled 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,22 +214,24 @@
   },
   "active": "4edfd44d1bc1433e",
   "lastOpenFiles": [
-    "Untitled 2.canvas",
-    "2026-02-24.md",
-    "ultimate/ai/mml-book (1).pdf",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "ultimate/ai/deep_learning/build-a-large-language-model-from-scratch.pdf",
     "ultimate/robotics/probalatisc.pdf",
     "ultimate/robotics/northwestern.pdf",
     "ultimate/robotics/book1.pdf",
     "ultimate/robotics/ai_for_robotics.pdf",
     "ultimate/robotics/(Adaptive Computation and Machine Learning) Richard S. Sutton, Andrew G. Barto - Reinforcement learning_ an introduction-The MIT Press (1998)(Z-Lib.io).pdf",
+    "ultimate/robotics",
+    "ultimate/electronics/microelectronics.pdf",
+    "ultimate/electronics/high-speed-digital-design.pdf",
+    "ultimate/electronics/art_of_electronics.pdf",
+    "ultimate/electronics/Sergio-Franco-Design-With-Operational-Amplifiers-And-Analog-Integrated-Circuits-McGraw-Hill-Series-in-Electrical-and-Computer-Engineering-c2015.pdf",
+    "ultimate/electronics/Embedded-Engineering-Roadmap.png",
+    "ultimate/electronics/Digital Design and Computer Architecture_ ARM® Edition -- Sarah L_ Harris & David Money Harris -- ARM edition, Amsterdam, 2015 -- Elsevier Science & -- 9780128000564 -- 1c10401a5d91fc8673cdb500470dfbb7 -- Anna’s Archive.pdf",
+    "README.md",
+    "Untitled 2.canvas",
+    "2026-02-24.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "Untitled.md",
-    "Welcome.md",
-    "ultimate/ai/deep_learning/Deep+Learning.pdf",
-    "ultimate/god_ultimate/Untitled 1",
-    "ultimate/god_ultimate/Untitled",
-    "ultimate/electronics/Embedded-Engineering-Roadmap.png"
+    "Welcome.md"
   ]
 }
