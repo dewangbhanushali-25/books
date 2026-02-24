@@ -25,12 +25,14 @@
             "id": "b6e6059c685aaa63",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ultimate/KnillProbability.pdf"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "KnillProbability"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -207,15 +209,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4edfd44d1bc1433e",
+  "active": "b6e6059c685aaa63",
   "lastOpenFiles": [
+    "ultimate/KnillProbability.pdf",
     "ultimate/Little_Notes.pdf",
     "Untitled.md",
     "Welcome.md",
     "README.md",
     "2026-02-24.md",
     "ultimate/sde-book.pdf",
-    "ultimate/KnillProbability.pdf",
     "ultimate/finbook.pdf",
     "ultimate/bgc_usl_c_2.pdf",
     "Untitled 1.base",
