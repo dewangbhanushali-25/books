@@ -27,10 +27,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "ultimate/programming/Computer Systems_ A Programmer's Perspective (3rd Edition) -- Randal E_ Bryant & David R_ O'Hallaron [Bryant, Randal E_ & -- 3rd Revised edition, New -- 9780134092669 -- 7690623e0b7e0c153ca2e29ab09f6891 -- Anna’s Archive (1).pdf"
+                "file": "ultimate/nptel/control robotics/Modern control engineering -- Prentice Hall_; Ogata, Katsuhiko -- Prentice-Hall electrical engineering series_ Instrumentation -- Prentice Hall _ -- 9780132634991 -- 29ca42b650355d139575cb0540b1897b -- Anna’s Archive.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Computer Systems_ A Programmer's Perspective (3rd Edition) -- Randal E_ Bryant & David R_ O'Hallaron [Bryant, Randal E_ & -- 3rd Revised edition, New -- 9780134092669 -- 7690623e0b7e0c153ca2e29ab09f6891 -- Anna’s Archive (1)"
+              "title": "Modern control engineering -- Prentice Hall_; Ogata, Katsuhiko -- Prentice-Hall electrical engineering series_ Instrumentation -- Prentice Hall _ -- 9780132634991 -- 29ca42b650355d139575cb0540b1897b -- Anna’s Archive"
             }
           }
         ],
@@ -207,8 +207,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4edfd44d1bc1433e",
+  "active": "b6e6059c685aaa63",
   "lastOpenFiles": [
+    "ultimate/programming/Computer Systems_ A Programmer's Perspective (3rd Edition) -- Randal E_ Bryant & David R_ O'Hallaron [Bryant, Randal E_ & -- 3rd Revised edition, New -- 9780134092669 -- 7690623e0b7e0c153ca2e29ab09f6891 -- Anna’s Archive (1).pdf",
     "ultimate/nptel/control robotics/Modern control engineering -- Prentice Hall_; Ogata, Katsuhiko -- Prentice-Hall electrical engineering series_ Instrumentation -- Prentice Hall _ -- 9780132634991 -- 29ca42b650355d139575cb0540b1897b -- Anna’s Archive.pdf",
     "ultimate/nptel/applied stothastic process/sde-book.pdf",
     "ultimate/nptel/sde-book.pdf",
@@ -219,7 +220,6 @@
     "ultimate/programming/bgc_usl_c_2.pdf",
     "ultimate/nptel/applied stothastic process",
     "ultimate/nptel/control robotics",
-    "ultimate/nptel",
     "Untitled.md",
     "Welcome.md",
     "README.md",
