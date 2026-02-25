@@ -27,10 +27,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "ultimate/computer_vision/Computer Vision - Algorithms and Applications 2nd Edition, Richard Szeliski.pdf"
+                "file": "ultimate/programming/Computer Systems_ A Programmer's Perspective (3rd Edition) -- Randal E_ Bryant & David R_ O'Hallaron [Bryant, Randal E_ & -- 3rd Revised edition, New -- 9780134092669 -- 7690623e0b7e0c153ca2e29ab09f6891 -- Anna’s Archive (1).pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Computer Vision - Algorithms and Applications 2nd Edition, Richard Szeliski"
+              "title": "Computer Systems_ A Programmer's Perspective (3rd Edition) -- Randal E_ Bryant & David R_ O'Hallaron [Bryant, Randal E_ & -- 3rd Revised edition, New -- 9780134092669 -- 7690623e0b7e0c153ca2e29ab09f6891 -- Anna’s Archive (1)"
             }
           }
         ],
@@ -209,23 +209,23 @@
   },
   "active": "b6e6059c685aaa63",
   "lastOpenFiles": [
-    "ultimate/control/feedback_system.pdf",
-    "ultimate/computer_vision/Deep_learning_for_3D_vision.pdf",
-    "ultimate/ai/mml-book (1).pdf",
+    "ultimate/nptel/applied stothastic process/sde-book.pdf",
+    "ultimate/nptel/sde-book.pdf",
+    "ultimate/nptel/applied stothastic process/finbook.pdf",
+    "ultimate/nptel/finbook.pdf",
+    "ultimate/nptel/applied stothastic process/Little_Notes.pdf",
+    "ultimate/nptel/applied stothastic process/KnillProbability.pdf",
+    "ultimate/programming/bgc_usl_c_2.pdf",
+    "ultimate/nptel/applied stothastic process",
+    "ultimate/nptel/control robotics",
+    "ultimate/nptel",
+    "ultimate/computer_vision/Computer Vision - Algorithms and Applications 2nd Edition, Richard Szeliski.pdf",
     "Untitled.md",
-    "ultimate/KnillProbability.pdf",
-    "ultimate/Little_Notes.pdf",
     "Welcome.md",
     "README.md",
     "2026-02-24.md",
-    "ultimate/sde-book.pdf",
-    "ultimate/finbook.pdf",
-    "ultimate/bgc_usl_c_2.pdf",
-    "Untitled 1.base",
-    "Untitled.base",
     "Untitled.canvas",
     "Untitled 3.canvas",
-    "ultimate/robotics/probalatisc.pdf",
     "ultimate/electronics/Embedded-Engineering-Roadmap.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
