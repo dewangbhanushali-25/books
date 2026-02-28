@@ -27,10 +27,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "ultimate/robotics/probalatisc.pdf"
+                "file": "ultimate/ai/deep_learning/Deep+Learning.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "probalatisc"
+              "title": "Deep+Learning"
             }
           }
         ],
@@ -193,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,8 +210,9 @@
   },
   "active": "b6e6059c685aaa63",
   "lastOpenFiles": [
-    "ultimate/robotics/northwestern.pdf",
+    "ultimate/ai/deep_learning/Deep Learning with Python.pdf",
     "ultimate/robotics/probalatisc.pdf",
+    "ultimate/robotics/northwestern.pdf",
     "ultimate/robotics/ai_for_robotics.pdf",
     "ultimate/robotics/book1.pdf",
     "ultimate/robotics/(Adaptive Computation and Machine Learning) Richard S. Sutton, Andrew G. Barto - Reinforcement learning_ an introduction-The MIT Press (1998)(Z-Lib.io).pdf",
@@ -219,7 +221,6 @@
     "ultimate/computer_vision/Computer Vision - Algorithms and Applications 2nd Edition, Richard Szeliski.pdf",
     "ultimate/control/databookRL.pdf",
     "ultimate/nptel/control robotics/Modern control engineering -- Prentice Hall_; Ogata, Katsuhiko -- Prentice-Hall electrical engineering series_ Instrumentation -- Prentice Hall _ -- 9780132634991 -- 29ca42b650355d139575cb0540b1897b -- Anna’s Archive.pdf",
-    "ultimate/control/modern-control-engineering-kogata-3rd-edition.pdf",
     "Untitled.md",
     "Welcome.md",
     "README.md",
