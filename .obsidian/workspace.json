@@ -27,10 +27,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "ultimate/nptel/control robotics/Modern control engineering -- Prentice Hall_; Ogata, Katsuhiko -- Prentice-Hall electrical engineering series_ Instrumentation -- Prentice Hall _ -- 9780132634991 -- 29ca42b650355d139575cb0540b1897b -- Anna’s Archive.pdf"
+                "file": "ultimate/robotics/probalatisc.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Modern control engineering -- Prentice Hall_; Ogata, Katsuhiko -- Prentice-Hall electrical engineering series_ Instrumentation -- Prentice Hall _ -- 9780132634991 -- 29ca42b650355d139575cb0540b1897b -- Anna’s Archive"
+              "title": "probalatisc"
             }
           }
         ],
@@ -209,17 +209,17 @@
   },
   "active": "b6e6059c685aaa63",
   "lastOpenFiles": [
-    "ultimate/programming/Computer Systems_ A Programmer's Perspective (3rd Edition) -- Randal E_ Bryant & David R_ O'Hallaron [Bryant, Randal E_ & -- 3rd Revised edition, New -- 9780134092669 -- 7690623e0b7e0c153ca2e29ab09f6891 -- Anna’s Archive (1).pdf",
+    "ultimate/robotics/northwestern.pdf",
+    "ultimate/robotics/probalatisc.pdf",
+    "ultimate/robotics/ai_for_robotics.pdf",
+    "ultimate/robotics/book1.pdf",
+    "ultimate/robotics/(Adaptive Computation and Machine Learning) Richard S. Sutton, Andrew G. Barto - Reinforcement learning_ an introduction-The MIT Press (1998)(Z-Lib.io).pdf",
+    "ultimate/ai/Reinforcement Learning_ Optimal Feedback Control with Industrial Applications (Advances in Industria (Z-lib.io).pdf",
+    "ultimate/computer_vision/Deep_learning_for_3D_vision.pdf",
+    "ultimate/computer_vision/Computer Vision - Algorithms and Applications 2nd Edition, Richard Szeliski.pdf",
+    "ultimate/control/databookRL.pdf",
     "ultimate/nptel/control robotics/Modern control engineering -- Prentice Hall_; Ogata, Katsuhiko -- Prentice-Hall electrical engineering series_ Instrumentation -- Prentice Hall _ -- 9780132634991 -- 29ca42b650355d139575cb0540b1897b -- Anna’s Archive.pdf",
-    "ultimate/nptel/applied stothastic process/sde-book.pdf",
-    "ultimate/nptel/sde-book.pdf",
-    "ultimate/nptel/applied stothastic process/finbook.pdf",
-    "ultimate/nptel/finbook.pdf",
-    "ultimate/nptel/applied stothastic process/Little_Notes.pdf",
-    "ultimate/nptel/applied stothastic process/KnillProbability.pdf",
-    "ultimate/programming/bgc_usl_c_2.pdf",
-    "ultimate/nptel/applied stothastic process",
-    "ultimate/nptel/control robotics",
+    "ultimate/control/modern-control-engineering-kogata-3rd-edition.pdf",
     "Untitled.md",
     "Welcome.md",
     "README.md",
