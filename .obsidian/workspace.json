@@ -32,9 +32,21 @@
               "icon": "lucide-file-text",
               "title": "Deep+Learning"
             }
+          },
+          {
+            "id": "c8d300d54603be15",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,7 +220,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b6e6059c685aaa63",
+  "active": "c8d300d54603be15",
   "lastOpenFiles": [
     "ultimate/ai/deep_learning/Deep Learning with Python.pdf",
     "ultimate/robotics/probalatisc.pdf",
