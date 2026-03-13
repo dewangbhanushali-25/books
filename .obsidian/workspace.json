@@ -37,12 +37,12 @@
             "id": "c8d300d54603be15",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "pdf",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "ultimate/ai/reinforcement_learning/SuttonBartoIPRLBook2ndEd.pdf"
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "icon": "lucide-file-text",
+              "title": "SuttonBartoIPRLBook2ndEd"
             }
           }
         ],
@@ -103,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "2072c6c506941f12",
@@ -222,6 +222,8 @@
   },
   "active": "c8d300d54603be15",
   "lastOpenFiles": [
+    "ultimate/ai/reinforcement_learning/Miguel Morales - Grokking Deep Reinforcement Learning (2020, Manning Publications) - libgen.li.pdf",
+    "ultimate/control/databookRL.pdf",
     "ultimate/ai/deep_learning/Deep Learning with Python.pdf",
     "ultimate/robotics/probalatisc.pdf",
     "ultimate/robotics/northwestern.pdf",
@@ -231,8 +233,6 @@
     "ultimate/ai/Reinforcement Learning_ Optimal Feedback Control with Industrial Applications (Advances in Industria (Z-lib.io).pdf",
     "ultimate/computer_vision/Deep_learning_for_3D_vision.pdf",
     "ultimate/computer_vision/Computer Vision - Algorithms and Applications 2nd Edition, Richard Szeliski.pdf",
-    "ultimate/control/databookRL.pdf",
-    "ultimate/nptel/control robotics/Modern control engineering -- Prentice Hall_; Ogata, Katsuhiko -- Prentice-Hall electrical engineering series_ Instrumentation -- Prentice Hall _ -- 9780132634991 -- 29ca42b650355d139575cb0540b1897b -- Anna’s Archive.pdf",
     "Untitled.md",
     "Welcome.md",
     "README.md",
