@@ -39,10 +39,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "ultimate/ai/reinforcement_learning/SuttonBartoIPRLBook2ndEd.pdf"
+                "file": "ultimate/nptel/applied stothastic process/introduction_to_probability_model.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "SuttonBartoIPRLBook2ndEd"
+              "title": "introduction_to_probability_model"
             }
           }
         ],
@@ -222,17 +222,17 @@
   },
   "active": "c8d300d54603be15",
   "lastOpenFiles": [
+    "ultimate/nptel/applied stothastic process/finbook.pdf",
+    "ultimate/nptel/applied stothastic process/introduction_to_probability_model.pdf",
+    "ultimate/nptel/applied stothastic process/Unconfirmed 27901.crdownload",
+    "ultimate/nptel/applied stothastic process/sde-book.pdf",
+    "ultimate/nptel/applied stothastic process/Little_Notes.pdf",
+    "ultimate/nptel/applied stothastic process/KnillProbability.pdf",
+    "ultimate/ai/reinforcement_learning/SuttonBartoIPRLBook2ndEd.pdf",
     "ultimate/ai/reinforcement_learning/Miguel Morales - Grokking Deep Reinforcement Learning (2020, Manning Publications) - libgen.li.pdf",
     "ultimate/control/databookRL.pdf",
     "ultimate/ai/deep_learning/Deep Learning with Python.pdf",
     "ultimate/robotics/probalatisc.pdf",
-    "ultimate/robotics/northwestern.pdf",
-    "ultimate/robotics/ai_for_robotics.pdf",
-    "ultimate/robotics/book1.pdf",
-    "ultimate/robotics/(Adaptive Computation and Machine Learning) Richard S. Sutton, Andrew G. Barto - Reinforcement learning_ an introduction-The MIT Press (1998)(Z-Lib.io).pdf",
-    "ultimate/ai/Reinforcement Learning_ Optimal Feedback Control with Industrial Applications (Advances in Industria (Z-lib.io).pdf",
-    "ultimate/computer_vision/Deep_learning_for_3D_vision.pdf",
-    "ultimate/computer_vision/Computer Vision - Algorithms and Applications 2nd Edition, Richard Szeliski.pdf",
     "Untitled.md",
     "Welcome.md",
     "README.md",
