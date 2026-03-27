@@ -49,12 +49,12 @@
             "id": "37515c6abe79882a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "pdf",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "ultimate/programming/bgc_usl_c_2.pdf"
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "icon": "lucide-file-text",
+              "title": "bgc_usl_c_2"
             }
           }
         ],
@@ -234,24 +234,24 @@
   },
   "active": "37515c6abe79882a",
   "lastOpenFiles": [
+    "ultimate/programming/Cormen Introduction to Algorithms.pdf",
+    "ultimate/electronics/art_of_electronics.pdf",
+    "ultimate/Cormen Introduction to Algorithms.pdf",
+    "ultimate/Unconfirmed 650537.crdownload",
+    "ultimate/electronics/Digital Design and Computer Architecture_ ARM® Edition -- Sarah L_ Harris & David Money Harris -- ARM edition, Amsterdam, 2015 -- Elsevier Science & -- 9780128000564 -- 1c10401a5d91fc8673cdb500470dfbb7 -- Anna’s Archive.pdf",
+    "ultimate/electronics/Digital Design and Computer Architecture, RISC-V Edition_ -- Sarah L_ Harris, David Harris, Sarah Harris, David Money -- Sep 15, 2021 -- Morgan -- 9780128200643 -- ad4a11c5a04397a4bb8ee93d7a720964 -- Anna’s Archive.pdf",
+    "ultimate/electronics/Embedded-Engineering-Roadmap.png",
+    "ultimate/electronics/microelectronics.pdf",
+    "ultimate/electronics/Sergio-Franco-Design-With-Operational-Amplifiers-And-Analog-Integrated-Circuits-McGraw-Hill-Series-in-Electrical-and-Computer-Engineering-c2015.pdf",
     "ultimate/control/modern-control-engineering-kogata-3rd-edition.pdf",
-    "ultimate/nptel/applied stothastic process/introduction_to_probability_model.pdf",
-    "ultimate/nptel/applied stothastic process/finbook.pdf",
-    "ultimate/nptel/applied stothastic process/Unconfirmed 27901.crdownload",
-    "ultimate/nptel/applied stothastic process/sde-book.pdf",
-    "ultimate/nptel/applied stothastic process/Little_Notes.pdf",
-    "ultimate/nptel/applied stothastic process/KnillProbability.pdf",
-    "ultimate/ai/reinforcement_learning/SuttonBartoIPRLBook2ndEd.pdf",
-    "ultimate/ai/reinforcement_learning/Miguel Morales - Grokking Deep Reinforcement Learning (2020, Manning Publications) - libgen.li.pdf",
-    "ultimate/control/databookRL.pdf",
-    "ultimate/ai/deep_learning/Deep Learning with Python.pdf",
+    "ultimate/control/Underactuated Robotics.pdf",
+    "ultimate/ai/Reinforcement Learning_ Optimal Feedback Control with Industrial Applications (Advances in Industria (Z-lib.io).pdf",
     "Untitled.md",
     "Welcome.md",
     "README.md",
     "2026-02-24.md",
     "Untitled.canvas",
     "Untitled 3.canvas",
-    "ultimate/electronics/Embedded-Engineering-Roadmap.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
   ]
